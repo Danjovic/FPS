@@ -19,8 +19,8 @@
 //   | |) / -_)  _| | ' \| |  _| / _ \ ' \(_-<
 //   |___/\___|_| |_|_||_|_|\__|_\___/_||_/__/
 //
-#define _Pin_Left_footswitch    2
-#define _Pin_Middle_footswitch  1
+#define _Pin_Left_footswitch    5
+#define _Pin_Middle_footswitch  2
 #define _Pin_Right_footswitch   0
 
 #define _Key_Left_footswitch KEY_C   // Crouch
